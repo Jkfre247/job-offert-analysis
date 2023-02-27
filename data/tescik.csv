@@ -1,0 +1,126 @@
+Word,Category,Count
+soap,Programing Language,3
+rest,Programing Language,23
+lynx,Programing Language,105
+api,Programing Language,19
+json,Programing Language,17
+raspberry,Programing Language,1
+excel,Programing Language,94
+python,Programing Language,695
+java,Programing Language,138
+scala,Programing Language,96
+r,Programing Language,384
+matlab,Programing Language,34
+javascript,Programing Language,30
+php,Programing Language,4
+swift,Programing Language,1
+kotlin,Programing Language,0
+c,Programing Language,133
+ruby,Programing Language,4
+perl,Programing Language,8
+go,Programing Language,50
+dart,Programing Language,0
+typescript,Programing Language,0
+html,Programing Language,14
+css,Programing Language,7
+shiny,frameworks,12
+scikitlearn,frameworks,0
+scipy,frameworks,28
+sphinx,frameworks,2
+theano,frameworks,9
+soup,frameworks,1
+scrapy,frameworks,1
+docker,frameworks,53
+opencv,frameworks,6
+jupyter,frameworks,25
+tensorf,frameworks,115
+keras,frameworks,61
+pytorch,frameworks,47
+caffe,frameworks,3
+scikit,frameworks,94
+pandas,frameworks,94
+numpy,frameworks,91
+matplotlib,frameworks,26
+spacy,frameworks,9
+django,frameworks,11
+flask,frameworks,12
+spring,frameworks,7
+react,frameworks,7
+angular,frameworks,4
+vue,frameworks,1
+express,frameworks,6
+ruby,frameworks,4
+laravel,frameworks,1
+codeigniter,frameworks,0
+yii,frameworks,0
+symfony,frameworks,0
+hibernate,frameworks,1
+struts,frameworks,1
+jsf,frameworks,0
+kafka,bigdata,25
+nifi,bigdata,9
+streamsets,bigdata,5
+postgresql,bigdata,14
+mahout,bigdata,2
+sphinx,bigdata,2
+nutch,bigdata,2
+nosql,bigdata,32
+kubernetes,bigdata,20
+mapreduce,bigdata,15
+teradata,bigdata,10
+redis,bigdata,6
+search,bigdata,42
+hbase,bigdata,6
+crimson,bigdata,1
+beam,bigdata,1
+databricks,bigdata,39
+apache,bigdata,24
+hadoop,bigdata,82
+spark,bigdata,124
+hive,bigdata,41
+mongodb,bigdata,14
+cassandra,bigdata,5
+elastic,bigdata,11
+solr,bigdata,4
+neo4j,bigdata,9
+sql server,bigdata,19
+sql,bigdata,454
+mysql,bigdata,19
+postgreSQL,bigdata,14
+power bi,business intelligence,77
+spss,business intelligence,24
+qlik,business intelligence,18
+modeler,business intelligence,4
+tableau,business intelligence,154
+powerbi,business intelligence,35
+qlikview,business intelligence,9
+looker,business intelligence,10
+sap,business intelligence,12
+microstrategy,business intelligence,1
+pentaho,business intelligence,2
+birt,business intelligence,1
+obiee,business intelligence,1
+rabbitmq,cloud services,1
+amqp,cloud services,1
+kong,cloud services,3
+amazon,cloud services,47
+microsoft,cloud services,91
+aws,cloud services,149
+cloud,cloud services,216
+azure,cloud services,124
+google,cloud services,62
+ibm,cloud services,12
+salesforce,cloud services,4
+oracle,cloud services,23
+digitalocean,cloud services,1
+heroku,cloud services,0
+firebase,cloud services,0
+cloudflare,cloud services,0
+fastly,cloud services,0
+akamai,cloud services,0
+cloudinary,cloud services,0
+cloudflare,cloud services,0
+cloudinary,cloud services,0
+netlify,cloud services,0
+vercel,cloud services,0
+snowflake,cloud services,25

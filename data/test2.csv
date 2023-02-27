@@ -1,0 +1,1845 @@
+Word,Category
+python,Programming language
+databricks,bigdata
+snowflake,bigdata
+spss,business intelligence
+jupyter,frameworks
+tensorflow,frameworks
+kafka,bigdata
+hadoop,bigdata
+hadoop,bigdata
+excel,Programming language
+apache,bigdata
+spark,bigdata
+azure, cloud services
+azure, cloud services
+azure, cloud services
+learn,frameworks
+hadoop,bigdata
+microsoft, cloud services
+azure, cloud services
+databricks,bigdata
+hadoop,bigdata
+microsoft, cloud services
+databricks,bigdata
+aws, cloud services
+google, cloud services
+cloud, cloud services
+hadoop,bigdata
+spark,bigdata
+python,Programming language
+python,Programming language
+sql,bigdata
+python,Programming language
+spark,bigdata
+python,Programming language
+excel,Programming language
+python,Programming language
+python,Programming language
+snowflake,bigdata
+snowflake,bigdata
+snowflake,bigdata
+snowflake,bigdata
+aws, cloud services
+snowflake,bigdata
+excel,Programming language
+python,Programming language
+python,Programming language
+shiny,frameworks
+python,Programming language
+pytorch,frameworks
+tensorflow,frameworks
+kera,frameworks
+hadoop,bigdata
+sql,bigdata
+hive,bigdata
+spark,bigdata
+azure, cloud services
+cloud, cloud services
+python,Programming language
+r,Programming language
+java,Programming language
+snowflake,bigdata
+databricks,bigdata
+azure, cloud services
+google, cloud services
+cloud, cloud services
+python,Programming language
+spss,business intelligence
+python,Programming language
+python,Programming language
+hadoop,bigdata
+tableau,business intelligence
+microsoft, cloud services
+shiny,frameworks
+python,Programming language
+numpy,frameworks
+scipy,frameworks
+panda,frameworks
+databricks,bigdata
+ibm, cloud services
+cloud, cloud services
+cloud, cloud services
+snowflake,bigdata
+python,Programming language
+python,Programming language
+matlab,Programming language
+matlab,Programming language
+databricks,bigdata
+apache,bigdata
+nifi,bigdata
+streamsets,bigdata
+tableau,business intelligence
+qlik,business intelligence
+docker,frameworks
+hadoop,bigdata
+sql,bigdata
+hive,bigdata
+spark,bigdata
+azure, cloud services
+cloud, cloud services
+python,Programming language
+snowflake,bigdata
+databricks,bigdata
+azure, cloud services
+numpy,frameworks
+matlab,Programming language
+panda,frameworks
+tensorflow,frameworks
+kera,frameworks
+mongodb,bigdata
+cassandra,bigdata
+docker,frameworks
+mysql,bigdata
+postgresql,bigdata
+soap,Programming language
+rest,Programming language
+hadoop,bigdata
+mahout,bigdata
+sphinx,frameworks
+nutch,bigdata
+solr,bigdata
+python,Programming language
+panda,frameworks
+excel,Programming language
+jupyter,frameworks
+jupyter,frameworks
+hadoop,bigdata
+qlik,business intelligence
+qlik,business intelligence
+powerbi,business intelligence
+powerbi,business intelligence
+nosql,bigdata
+sql,bigdata
+oracle, cloud services
+aws, cloud services
+azure, cloud services
+kubernetes,bigdata
+powerbi,business intelligence
+azure, cloud services
+databricks,bigdata
+databricks,bigdata
+microsoft, cloud services
+excel,Programming language
+excel,Programming language
+hadoop,bigdata
+hadoop,bigdata
+sql,bigdata
+azure, cloud services
+ibm, cloud services
+spark,bigdata
+spss,business intelligence
+spss,business intelligence
+python,Programming language
+javascript,Programming language
+javascript,Programming language
+python,Programming language
+docker,frameworks
+tableau,business intelligence
+oracle, cloud services
+tensorflow,frameworks
+kafka,bigdata
+spark,bigdata
+kubernetes,bigdata
+databricks,bigdata
+kubernetes,bigdata
+databricks,bigdata
+hadoop,bigdata
+aws, cloud services
+r,Programming language
+python,Programming language
+mongodb,bigdata
+excel,Programming language
+python,Programming language
+hadoop,bigdata
+databricks,bigdata
+databricks,bigdata
+pytorch,frameworks
+sql,bigdata
+python,Programming language
+excel,Programming language
+docker,frameworks
+kubernetes,bigdata
+matplotlib,frameworks
+tableau,business intelligence
+excel,Programming language
+python,Programming language
+apache,bigdata
+spark,bigdata
+azure, cloud services
+azure, cloud services
+azure, cloud services
+hadoop,bigdata
+microsoft, cloud services
+azure, cloud services
+databricks,bigdata
+hadoop,bigdata
+microsoft, cloud services
+databricks,bigdata
+aws, cloud services
+aws, cloud services
+google, cloud services
+google, cloud services
+cloud, cloud services
+matlab,Programming language
+python,Programming language
+kera,frameworks
+python,Programming language
+python,Programming language
+azure, cloud services
+databricks,bigdata
+scikit,frameworks
+kera,frameworks
+kera,frameworks
+pytorch,frameworks
+tensorflow,frameworks
+python,Programming language
+pytorch,frameworks
+hadoop,bigdata
+spark,bigdata
+aws, cloud services
+cloud, cloud services
+azure, cloud services
+mapreduce,bigdata
+mysql,bigdata
+hadoop,bigdata
+spark,bigdata
+hive,bigdata
+powerbi,business intelligence
+microsoft, cloud services
+microsoft, cloud services
+sql,bigdata
+r,Programming language
+python,Programming language
+python,Programming language
+sql,bigdata
+powerbi,business intelligence
+powerbi,business intelligence
+python,Programming language
+django,frameworks
+python,Programming language
+mongodb,bigdata
+python,Programming language
+docker,frameworks
+python,Programming language
+django,frameworks
+flask,frameworks
+python,Programming language
+oracle, cloud services
+mongodb,bigdata
+docker,frameworks
+kubernetes,bigdata
+aws, cloud services
+kubernetes,bigdata
+hadoop,bigdata
+azure, cloud services
+jupyter,frameworks
+docker,frameworks
+kubernetes,bigdata
+aws, cloud services
+elastic,bigdata
+spark,bigdata
+tensorflow,frameworks
+kera,frameworks
+pytorch,frameworks
+kera,frameworks
+pytorch,frameworks
+caffe,frameworks
+theano,frameworks
+python,Programming language
+scala,Programming language
+spss,business intelligence
+modeler,business intelligence
+hadoop,bigdata
+hadoop,bigdata
+python,Programming language
+python,Programming language
+sql,bigdata
+hadoop,bigdata
+lynx,Programming language
+python,Programming language
+postgresql,bigdata
+postgresql,bigdata
+sql,bigdata
+oracle, cloud services
+api,Programming language
+json,Programming language
+numpy,frameworks
+panda,frameworks
+scipy,frameworks
+matplotlib,frameworks
+soup,frameworks
+scrapy,frameworks
+teradata,bigdata
+nosql,bigdata
+nosql,bigdata
+redis,bigdata
+elastic,bigdata
+search,bigdata
+django,frameworks
+flask,frameworks
+python,Programming language
+powershell,None
+jupyter,frameworks
+excel,Programming language
+r,Programming language
+python,Programming language
+powerbi,business intelligence
+lynx,Programming language
+snowflake,bigdata
+snowflake,bigdata
+snowflake,bigdata
+azure, cloud services
+sql,bigdata
+oracle, cloud services
+oracle, cloud services
+mysql,bigdata
+mysql,bigdata
+postgresql,bigdata
+postgresql,bigdata
+aws, cloud services
+snowflake,bigdata
+snowflake,bigdata
+cloud, cloud services
+azure, cloud services
+aws, cloud services
+excel,Programming language
+azure, cloud services
+microsoft, cloud services
+microsoft, cloud services
+sql,bigdata
+oracle, cloud services
+oracle, cloud services
+sql,bigdata
+azure, cloud services
+python,Programming language
+powershell,None
+perl,Programming language
+lynx,Programming language
+hadoop,bigdata
+hadoop,bigdata
+python,Programming language
+azure, cloud services
+sql,bigdata
+oracle, cloud services
+python,Programming language
+matlab,Programming language
+panda,frameworks
+hadoop,bigdata
+hadoop,bigdata
+qlikview,business intelligence
+azure, cloud services
+aws, cloud services
+numpy,frameworks
+excel,Programming language
+azure, cloud services
+aws, cloud services
+numpy,frameworks
+excel,Programming language
+kubernetes,bigdata
+hadoop,bigdata
+kafka,bigdata
+kubernetes,bigdata
+pytorch,frameworks
+docker,frameworks
+kubernetes,bigdata
+kubernetes,bigdata
+azure, cloud services
+hadoop,bigdata
+sql,bigdata
+r,Programming language
+python,Programming language
+pytorch,frameworks
+excel,Programming language
+python,Programming language
+r,Programming language
+hadoop,bigdata
+python,Programming language
+google, cloud services
+python,Programming language
+jupyter,frameworks
+lynx,Programming language
+python,Programming language
+java,Programming language
+python,Programming language
+sql,bigdata
+excel,Programming language
+python,Programming language
+azure, cloud services
+aws, cloud services
+numpy,frameworks
+excel,Programming language
+python,Programming language
+excel,Programming language
+azure, cloud services
+aws, cloud services
+excel,Programming language
+hadoop,bigdata
+mongodb,bigdata
+azure, cloud services
+aws, cloud services
+excel,Programming language
+python,Programming language
+sql,bigdata
+excel,Programming language
+python,Programming language
+hadoop,bigdata
+docker,frameworks
+kubernetes,bigdata
+aws, cloud services
+python,Programming language
+python,Programming language
+kera,frameworks
+azure, cloud services
+python,Programming language
+sql,bigdata
+python,Programming language
+kera,frameworks
+kera,frameworks
+pytorch,frameworks
+excel,Programming language
+azure, cloud services
+aws, cloud services
+numpy,frameworks
+excel,Programming language
+azure, cloud services
+aws, cloud services
+numpy,frameworks
+excel,Programming language
+tensorflow,frameworks
+pytorch,frameworks
+kera,frameworks
+panda,frameworks
+python,Programming language
+mysql,bigdata
+matlab,Programming language
+tableau,business intelligence
+databricks,bigdata
+apache,bigdata
+azure, cloud services
+aws, cloud services
+excel,Programming language
+docker,frameworks
+docker,frameworks
+kubernetes,bigdata
+kubernetes,bigdata
+aws, cloud services
+excel,Programming language
+python,Programming language
+kera,frameworks
+powershell,None
+python,Programming language
+excel,Programming language
+tableau,business intelligence
+powerbi,business intelligence
+qlik,business intelligence
+sql,bigdata
+python,Programming language
+excel,Programming language
+azure, cloud services
+aws, cloud services
+numpy,frameworks
+excel,Programming language
+azure, cloud services
+python,Programming language
+r,Programming language
+microsoft, cloud services
+excel,Programming language
+excel,Programming language
+python,Programming language
+excel,Programming language
+sql,bigdata
+python,Programming language
+python,Programming language
+lynx,Programming language
+azure, cloud services
+aws, cloud services
+excel,Programming language
+azure, cloud services
+aws, cloud services
+excel,Programming language
+azure, cloud services
+aws, cloud services
+excel,Programming language
+azure, cloud services
+aws, cloud services
+excel,Programming language
+azure, cloud services
+aws, cloud services
+numpy,frameworks
+excel,Programming language
+azure, cloud services
+aws, cloud services
+numpy,frameworks
+excel,Programming language
+azure, cloud services
+aws, cloud services
+numpy,frameworks
+excel,Programming language
+docker,frameworks
+python,Programming language
+python,Programming language
+hive,bigdata
+spark,bigdata
+kera,frameworks
+tensorflow,frameworks
+pytorch,frameworks
+scikit,frameworks
+python,Programming language
+powerbi,business intelligence
+excel,Programming language
+python,Programming language
+azure, cloud services
+aws, cloud services
+excel,Programming language
+lynx,Programming language
+hadoop,bigdata
+jupyter,frameworks
+jupyter,frameworks
+powerbi,business intelligence
+python,Programming language
+azure, cloud services
+aws, cloud services
+numpy,frameworks
+excel,Programming language
+sql,bigdata
+sql,bigdata
+excel,Programming language
+excel,Programming language
+r,Programming language
+python,Programming language
+aws, cloud services
+r,Programming language
+jupyter,frameworks
+jupyter,frameworks
+azure, cloud services
+docker,frameworks
+azure, cloud services
+aws, cloud services
+excel,Programming language
+docker,frameworks
+tableau,business intelligence
+azure, cloud services
+aws, cloud services
+excel,Programming language
+python,Programming language
+jupyter,frameworks
+spss,business intelligence
+aws, cloud services
+tensorflow,frameworks
+kafka,bigdata
+spark,bigdata
+hadoop,bigdata
+databricks,bigdata
+apache,bigdata
+nifi,bigdata
+streamsets,bigdata
+docker,frameworks
+python,Programming language
+python,Programming language
+sql,bigdata
+excel,Programming language
+python,Programming language
+excel,Programming language
+azure, cloud services
+aws, cloud services
+numpy,frameworks
+excel,Programming language
+python,Programming language
+mongodb,bigdata
+oracle, cloud services
+docker,frameworks
+spark,bigdata
+python,Programming language
+tensorflow,frameworks
+kera,frameworks
+lynx,Programming language
+nosql,bigdata
+nosql,bigdata
+kera,frameworks
+tableau,business intelligence
+hadoop,bigdata
+qlikview,business intelligence
+qlik,business intelligence
+azure, cloud services
+python,Programming language
+scala,Programming language
+sql,bigdata
+hadoop,bigdata
+spark,bigdata
+teradata,bigdata
+qlikview,business intelligence
+qlik,business intelligence
+python,Programming language
+google, cloud services
+azure, cloud services
+aws, cloud services
+numpy,frameworks
+excel,Programming language
+azure, cloud services
+aws, cloud services
+numpy,frameworks
+excel,Programming language
+sql,bigdata
+databricks,bigdata
+python,Programming language
+mongodb,bigdata
+sql,bigdata
+python,Programming language
+azure, cloud services
+databricks,bigdata
+jupyter,frameworks
+databricks,bigdata
+python,Programming language
+matlab,Programming language
+hadoop,bigdata
+tensorflow,frameworks
+kafka,bigdata
+spark,bigdata
+kubernetes,bigdata
+databricks,bigdata
+kubernetes,bigdata
+databricks,bigdata
+hadoop,bigdata
+aws, cloud services
+aws, cloud services
+python,Programming language
+jupyter,frameworks
+jupyter,frameworks
+spss,business intelligence
+aws, cloud services
+aws, cloud services
+tensorflow,frameworks
+tensorflow,frameworks
+kafka,bigdata
+kafka,bigdata
+hadoop,bigdata
+excel,Programming language
+python,Programming language
+birt,business intelligence
+obiee,business intelligence
+tableau,business intelligence
+pentaho,business intelligence
+excel,Programming language
+excel,Programming language
+excel,Programming language
+hadoop,bigdata
+python,Programming language
+excel,Programming language
+python,Programming language
+shiny,frameworks
+python,Programming language
+flask,frameworks
+flask,frameworks
+mongodb,bigdata
+r,Programming language
+python,Programming language
+python,Programming language
+matlab,Programming language
+excel,Programming language
+python,Programming language
+python,Programming language
+java,Programming language
+sql,bigdata
+kera,frameworks
+theano,frameworks
+excel,Programming language
+python,Programming language
+excel,Programming language
+sql,bigdata
+python,Programming language
+hadoop,bigdata
+sphinx,frameworks
+nutch,bigdata
+solr,bigdata
+panda,frameworks
+excel,Programming language
+jupyter,frameworks
+cassandra,bigdata
+cassandra,bigdata
+mongodb,bigdata
+mongodb,bigdata
+apache,bigdata
+spss,business intelligence
+azure, cloud services
+sql,bigdata
+java,Programming language
+python,Programming language
+hadoop,bigdata
+azure, cloud services
+sql,bigdata
+azure, cloud services
+hadoop,bigdata
+excel,Programming language
+javascript,Programming language
+spacy,frameworks
+tensorflow,frameworks
+pytorch,frameworks
+panda,frameworks
+numpy,frameworks
+matplotlib,frameworks
+python,Programming language
+excel,Programming language
+python,Programming language
+hadoop,bigdata
+hadoop,bigdata
+excel,Programming language
+sql,bigdata
+python,Programming language
+matlab,Programming language
+elastic,bigdata
+hadoop,bigdata
+spark,bigdata
+azure, cloud services
+learn,frameworks
+tensorflow,frameworks
+solr,bigdata
+panda,frameworks
+nosql,bigdata
+mongodb,bigdata
+hbase,bigdata
+hbase,bigdata
+cassandra,bigdata
+cassandra,bigdata
+spacy,frameworks
+apache,bigdata
+apache,bigdata
+tensorflow,frameworks
+kera,frameworks
+jupyter,frameworks
+jupyter,frameworks
+sql,bigdata
+docker,frameworks
+opencv,frameworks
+scikit,frameworks
+tensorflow,frameworks
+kera,frameworks
+pytorch,frameworks
+raspberry,Programming language
+raspberry,Programming language
+python,Programming language
+opencv,frameworks
+scikit,frameworks
+tensorflow,frameworks
+kera,frameworks
+pytorch,frameworks
+raspberry,Programming language
+jupyter,frameworks
+jupyter,frameworks
+spss,business intelligence
+aws, cloud services
+tensorflow,frameworks
+kafka,bigdata
+tensorflow,frameworks
+kafka,bigdata
+hadoop,bigdata
+python,Programming language
+powerbi,business intelligence
+pytorch,frameworks
+panda,frameworks
+numpy,frameworks
+matplotlib,frameworks
+pytorch,frameworks
+pytorch,frameworks
+hadoop,bigdata
+hadoop,bigdata
+excel,Programming language
+excel,Programming language
+apache,bigdata
+hadoop,bigdata
+hadoop,bigdata
+aws, cloud services
+elastic,bigdata
+mapreduce,bigdata
+python,Programming language
+java,Programming language
+sql,bigdata
+python,Programming language
+jupyter,frameworks
+azure, cloud services
+databricks,bigdata
+databricks,bigdata
+sql,bigdata
+python,Programming language
+powerbi,business intelligence
+oracle, cloud services
+excel,Programming language
+powerbi,business intelligence
+jupyter,frameworks
+databricks,bigdata
+sql,bigdata
+python,Programming language
+python,Programming language
+python,Programming language
+sql,bigdata
+microsoft, cloud services
+powerbi,business intelligence
+python,Programming language
+numpy,frameworks
+jupyter,frameworks
+azure, cloud services
+python,Programming language
+sql,bigdata
+hadoop,bigdata
+spark,bigdata
+aws, cloud services
+azure, cloud services
+excel,Programming language
+python,Programming language
+azure, cloud services
+python,Programming language
+python,Programming language
+sql,bigdata
+hadoop,bigdata
+sql,bigdata
+hadoop,bigdata
+spark,bigdata
+spark,bigdata
+aws, cloud services
+azure, cloud services
+python,Programming language
+excel,Programming language
+databricks,bigdata
+jupyter,frameworks
+hadoop,bigdata
+hive,bigdata
+spark,bigdata
+sql,bigdata
+kubernetes,bigdata
+cloud, cloud services
+powerbi,business intelligence
+python,Programming language
+sql,bigdata
+postgresql,bigdata
+sql,bigdata
+python,Programming language
+powershell,None
+flask,frameworks
+jupyter,frameworks
+excel,Programming language
+gurobi,None
+looker,business intelligence
+python,Programming language
+excel,Programming language
+google, cloud services
+excel,Programming language
+excel,Programming language
+pytorch,frameworks
+databricks,bigdata
+snowflake,bigdata
+sql,bigdata
+python,Programming language
+python,Programming language
+matlab,Programming language
+matlab,Programming language
+python,Programming language
+matlab,Programming language
+python,Programming language
+python,Programming language
+excel,Programming language
+python,Programming language
+sql,bigdata
+hadoop,bigdata
+nosql,bigdata
+hadoop,bigdata
+excel,Programming language
+api,Programming language
+aws, cloud services
+excel,Programming language
+pytorch,frameworks
+excel,Programming language
+python,Programming language
+panda,frameworks
+python,Programming language
+matplotlib,frameworks
+excel,Programming language
+python,Programming language
+scikit,frameworks
+flask,frameworks
+aws, cloud services
+aws, cloud services
+google, cloud services
+google, cloud services
+aws, cloud services
+glue,None
+python,Programming language
+python,Programming language
+sql,bigdata
+excel,Programming language
+python,Programming language
+pytorch,frameworks
+panda,frameworks
+python,Programming language
+python,Programming language
+matplotlib,frameworks
+python,Programming language
+sql,bigdata
+excel,Programming language
+cassandra,bigdata
+hadoop,bigdata
+sap,business intelligence
+aws, cloud services
+google, cloud services
+google, cloud services
+snowflake,bigdata
+sql,bigdata
+python,Programming language
+tableau,business intelligence
+snowflake,bigdata
+azure, cloud services
+excel,Programming language
+panda,frameworks
+python,Programming language
+tensorflow,frameworks
+kera,frameworks
+kera,frameworks
+numpy,frameworks
+aws, cloud services
+aws, cloud services
+python,Programming language
+tensorflow,frameworks
+python,Programming language
+hadoop,bigdata
+kera,frameworks
+pytorch,frameworks
+panda,frameworks
+numpy,frameworks
+python,Programming language
+sql,bigdata
+qlikview,business intelligence
+qlikview,business intelligence
+powerbi,business intelligence
+panda,frameworks
+numpy,frameworks
+scipy,frameworks
+matplotlib,frameworks
+kera,frameworks
+pytorch,frameworks
+json,Programming language
+python,Programming language
+python,Programming language
+r,Programming language
+shiny,frameworks
+scikit,frameworks
+jupyter,frameworks
+aws, cloud services
+docker,frameworks
+hadoop,bigdata
+sql,bigdata
+postgresql,bigdata
+google, cloud services
+python,Programming language
+excel,Programming language
+python,Programming language
+sql,bigdata
+azure, cloud services
+python,Programming language
+panda,frameworks
+powerbi,business intelligence
+sql,bigdata
+python,Programming language
+python,Programming language
+python,Programming language
+django,frameworks
+azure, cloud services
+excel,Programming language
+sql,bigdata
+python,Programming language
+google, cloud services
+cloud, cloud services
+hadoop,bigdata
+azure, cloud services
+python,Programming language
+r,Programming language
+scala,Programming language
+sql,bigdata
+docker,frameworks
+postgresql,bigdata
+sql,bigdata
+python,Programming language
+excel,Programming language
+python,Programming language
+matlab,Programming language
+sql,bigdata
+matplotlib,frameworks
+panda,frameworks
+scikit,frameworks
+azure, cloud services
+python,Programming language
+google, cloud services
+aws, cloud services
+sql,bigdata
+python,Programming language
+matlab,Programming language
+python,Programming language
+excel,Programming language
+hadoop,bigdata
+python,Programming language
+google, cloud services
+databricks,bigdata
+databricks,bigdata
+hadoop,bigdata
+excel,Programming language
+excel,Programming language
+excel,Programming language
+panda,frameworks
+kera,frameworks
+excel,Programming language
+excel,Programming language
+matplotlib,frameworks
+matlab,Programming language
+python,Programming language
+sql,bigdata
+numpy,frameworks
+panda,frameworks
+kera,frameworks
+excel,Programming language
+matplotlib,frameworks
+python,Programming language
+python,Programming language
+hadoop,bigdata
+spark,bigdata
+aws, cloud services
+aws, cloud services
+excel,Programming language
+excel,Programming language
+python,Programming language
+tensorflow,frameworks
+pytorch,frameworks
+hadoop,bigdata
+apache,bigdata
+excel,Programming language
+kera,frameworks
+tensorflow,frameworks
+pytorch,frameworks
+python,Programming language
+panda,frameworks
+numpy,frameworks
+matplotlib,frameworks
+matplotlib,frameworks
+kubernetes,bigdata
+scikit,frameworks
+docker,frameworks
+azure, cloud services
+hadoop,bigdata
+cassandra,bigdata
+kafka,bigdata
+docker,frameworks
+python,Programming language
+python,Programming language
+docker,frameworks
+sql,bigdata
+python,Programming language
+google, cloud services
+sql,bigdata
+python,Programming language
+python,Programming language
+sql,bigdata
+python,Programming language
+matlab,Programming language
+excel,Programming language
+google, cloud services
+python,Programming language
+sql,bigdata
+aws, cloud services
+aws, cloud services
+swift,Programming language
+r,Programming language
+snowflake,bigdata
+azure, cloud services
+databricks,bigdata
+matplotlib,frameworks
+spark,bigdata
+sql,bigdata
+azure, cloud services
+databricks,bigdata
+snowflake,bigdata
+sql,bigdata
+azure, cloud services
+scikit,frameworks
+kera,frameworks
+kera,frameworks
+tensorflow,frameworks
+pytorch,frameworks
+python,Programming language
+panda,frameworks
+numpy,frameworks
+numpy,frameworks
+matplotlib,frameworks
+pytorch,frameworks
+tensorflow,frameworks
+python,Programming language
+c,Programming language
+python,Programming language
+c,Programming language
+scikit,frameworks
+kera,frameworks
+tensorflow,frameworks
+docker,frameworks
+docker,frameworks
+tableau,business intelligence
+azure, cloud services
+kera,frameworks
+pytorch,frameworks
+python,Programming language
+panda,frameworks
+pytorch,frameworks
+kera,frameworks
+scikit,frameworks
+matlab,Programming language
+docker,frameworks
+pytorch,frameworks
+kubernetes,bigdata
+python,Programming language
+azure, cloud services
+cloud, cloud services
+databricks,bigdata
+snowflake,bigdata
+matlab,Programming language
+tensorflow,frameworks
+pytorch,frameworks
+pytorch,frameworks
+opencv,frameworks
+spark,bigdata
+kubernetes,bigdata
+azure, cloud services
+python,Programming language
+azure, cloud services
+excel,Programming language
+learn,frameworks
+scikit,frameworks
+tensorflow,frameworks
+docker,frameworks
+apache,bigdata
+azure, cloud services
+kera,frameworks
+pytorch,frameworks
+pytorch,frameworks
+django,frameworks
+python,Programming language
+python,Programming language
+sql,bigdata
+excel,Programming language
+jupyter,frameworks
+mongodb,bigdata
+azure, cloud services
+hadoop,bigdata
+redis,bigdata
+nosql,bigdata
+databricks,bigdata
+snowflake,bigdata
+powerbi,business intelligence
+python,Programming language
+django,frameworks
+tensorflow,frameworks
+jupyter,frameworks
+apache,bigdata
+spark,bigdata
+pytorch,frameworks
+panda,frameworks
+numpy,frameworks
+kera,frameworks
+kera,frameworks
+cloud, cloud services
+aws, cloud services
+python,Programming language
+kera,frameworks
+sql,bigdata
+nosql,bigdata
+azure, cloud services
+excel,Programming language
+panda,frameworks
+opencv,frameworks
+kera,frameworks
+kera,frameworks
+tensorflow,frameworks
+pytorch,frameworks
+caffe,frameworks
+kera,frameworks
+tensorflow,frameworks
+kubernetes,bigdata
+docker,frameworks
+rabbitmq, cloud services
+amqp, cloud services
+kong, cloud services
+laravel,frameworks
+flask,frameworks
+hadoop,bigdata
+kera,frameworks
+tensorflow,frameworks
+kera,frameworks
+python,Programming language
+scikit,frameworks
+hadoop,bigdata
+redis,bigdata
+snowflake,bigdata
+databricks,bigdata
+r,Programming language
+python,Programming language
+aws, cloud services
+spark,bigdata
+digitalocean, cloud services
+crimson,bigdata
+hexagon,None
+crimson,bigdata
+hadoop,bigdata
+hive,bigdata
+spark,bigdata
+gurobi,None
+gurobi,None
+mysql,bigdata
+mysql,bigdata
+scikit,frameworks
+tensorflow,frameworks
+pytorch,frameworks
+django,frameworks
+docker,frameworks
+kubernetes,bigdata
+azure, cloud services
+console,None
+excel,Programming language
+nosql,bigdata
+docker,frameworks
+apache,bigdata
+beam,bigdata
+tensorflow,frameworks
+kera,frameworks
+pytorch,frameworks
+opencv,frameworks
+pytorch,frameworks
+snowflake,bigdata
+aws, cloud services
+pytorch,frameworks
+python,Programming language
+qlikview,business intelligence
+pytorch,frameworks
+tensorflow,frameworks
+kera,frameworks
+kera,frameworks
+opencv,frameworks
+opencv,frameworks
+python,Programming language
+pytorch,frameworks
+pytorch,frameworks
+tensorflow,frameworks
+kera,frameworks
+opencv,frameworks
+matlab,Programming language
+java,Programming language
+learn,frameworks
+learn,frameworks
+learn,frameworks
+python,Programming language
+scala,Programming language
+sql,bigdata
+learn,frameworks
+learn,frameworks
+cloud, cloud services
+matlab,Programming language
+cloud, cloud services
+learn,frameworks
+python,Programming language
+python,Programming language
+learn,frameworks
+learn,frameworks
+learn,frameworks
+databricks,bigdata
+learn,frameworks
+cloud, cloud services
+numpy,frameworks
+matplotlib,frameworks
+cloud, cloud services
+python,Programming language
+learn,frameworks
+learn,frameworks
+learn,frameworks
+learn,frameworks
+learn,frameworks
+learn,frameworks
+learn,frameworks
+kera,frameworks
+python,Programming language
+cloud, cloud services
+cloud, cloud services
+learn,frameworks
+python,Programming language
+learn,frameworks
+java,Programming language
+c,Programming language
+python,Programming language
+learn,frameworks
+learn,frameworks
+learn,frameworks
+tensorflow,frameworks
+kera,frameworks
+python,Programming language
+learn,frameworks
+learn,frameworks
+java,Programming language
+java,Programming language
+java,Programming language
+java,Programming language
+javascript,Programming language
+c,Programming language
+tableau,business intelligence
+learn,frameworks
+cloud, cloud services
+learn,frameworks
+python,Programming language
+python,Programming language
+java,Programming language
+scala,Programming language
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+python,Programming language
+tableau,business intelligence
+scala,Programming language
+django,frameworks
+python,Programming language
+sql,bigdata
+learn,frameworks
+learn,frameworks
+scala,Programming language
+django,frameworks
+c,Programming language
+learn,frameworks
+learn,frameworks
+tensorflow,frameworks
+cloud, cloud services
+learn,frameworks
+c,Programming language
+python,Programming language
+sql,bigdata
+python,Programming language
+postgresql,bigdata
+cloud, cloud services
+learn,frameworks
+python,Programming language
+java,Programming language
+c,Programming language
+c,Programming language
+learn,frameworks
+learn,frameworks
+python,Programming language
+java,Programming language
+scala,Programming language
+databricks,bigdata
+databricks,bigdata
+python,Programming language
+sql,bigdata
+matlab,Programming language
+python,Programming language
+matlab,Programming language
+python,Programming language
+spark,bigdata
+python,Programming language
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+learn,frameworks
+pytorch,frameworks
+learn,frameworks
+learn,frameworks
+java,Programming language
+javascript,Programming language
+c,Programming language
+c,Programming language
+python,Programming language
+learn,frameworks
+matlab,Programming language
+python,Programming language
+matlab,Programming language
+python,Programming language
+learn,frameworks
+python,Programming language
+scala,Programming language
+learn,frameworks
+learn,frameworks
+learn,frameworks
+learn,frameworks
+learn,frameworks
+matlab,Programming language
+learn,frameworks
+numpy,frameworks
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+java,Programming language
+c,Programming language
+python,Programming language
+python,Programming language
+javascript,Programming language
+cloud, cloud services
+learn,frameworks
+c,Programming language
+cloud, cloud services
+learn,frameworks
+sql,bigdata
+learn,frameworks
+learn,frameworks
+learn,frameworks
+cloud, cloud services
+learn,frameworks
+java,Programming language
+learn,frameworks
+cloud, cloud services
+learn,frameworks
+javascript,Programming language
+learn,frameworks
+javascript,Programming language
+c,Programming language
+c,Programming language
+learn,frameworks
+learn,frameworks
+learn,frameworks
+c,Programming language
+learn,frameworks
+learn,frameworks
+python,Programming language
+sql,bigdata
+java,Programming language
+learn,frameworks
+learn,frameworks
+spark,bigdata
+scala,Programming language
+learn,frameworks
+snowflake,bigdata
+cloud, cloud services
+learn,frameworks
+databricks,bigdata
+databricks,bigdata
+learn,frameworks
+learn,frameworks
+cloud, cloud services
+java,Programming language
+python,Programming language
+scala,Programming language
+python,Programming language
+java,Programming language
+scala,Programming language
+python,Programming language
+scala,Programming language
+java,Programming language
+java,Programming language
+java,Programming language
+java,Programming language
+javascript,Programming language
+c,Programming language
+tableau,business intelligence
+learn,frameworks
+python,Programming language
+sql,bigdata
+java,Programming language
+cloud, cloud services
+cloud, cloud services
+cloud, cloud services
+python,Programming language
+python,Programming language
+r,Programming language
+learn,frameworks
+docker,frameworks
+cloud, cloud services
+python,Programming language
+learn,frameworks
+learn,frameworks
+python,Programming language
+learn,frameworks
+learn,frameworks
+java,Programming language
+c,Programming language
+c,Programming language
+learn,frameworks
+learn,frameworks
+python,Programming language
+java,Programming language
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+learn,frameworks
+python,Programming language
+learn,frameworks
+learn,frameworks
+c,Programming language
+c,Programming language
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+learn,frameworks
+databricks,bigdata
+cloud, cloud services
+learn,frameworks
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+cloud, cloud services
+python,Programming language
+python,Programming language
+java,Programming language
+learn,frameworks
+learn,frameworks
+learn,frameworks
+cloud, cloud services
+scala,Programming language
+java,Programming language
+c,Programming language
+teradata,bigdata
+learn,frameworks
+learn,frameworks
+learn,frameworks
+learn,frameworks
+learn,frameworks
+java,Programming language
+sql,bigdata
+databricks,bigdata
+learn,frameworks
+learn,frameworks
+python,Programming language
+learn,frameworks
+cloud, cloud services
+learn,frameworks
+python,Programming language
+java,Programming language
+scala,Programming language
+learn,frameworks
+python,Programming language
+learn,frameworks
+python,Programming language
+java,Programming language
+scala,Programming language
+learn,frameworks
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+cloud, cloud services
+python,Programming language
+java,Programming language
+scala,Programming language
+learn,frameworks
+cloud, cloud services
+java,Programming language
+r,Programming language
+python,Programming language
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+cloud, cloud services
+nosql,bigdata
+scala,Programming language
+java,Programming language
+learn,frameworks
+learn,frameworks
+python,Programming language
+learn,frameworks
+scala,Programming language
+java,Programming language
+learn,frameworks
+javascript,Programming language
+cloud, cloud services
+learn,frameworks
+python,Programming language
+python,Programming language
+learn,frameworks
+tensorflow,frameworks
+cloud, cloud services
+cloud, cloud services
+learn,frameworks
+cloud, cloud services
+cloud, cloud services
+python,Programming language
+python,Programming language
+python,Programming language
+cloud, cloud services
+learn,frameworks
+cloud, cloud services
+python,Programming language
+java,Programming language
+scala,Programming language
+python,Programming language
+python,Programming language
+python,Programming language
+databricks,bigdata
+databricks,bigdata
+cloud, cloud services
+python,Programming language
+java,Programming language
+javascript,Programming language
+python,Programming language
+cloud, cloud services
+learn,frameworks
+cloud, cloud services
+learn,frameworks
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+learn,frameworks
+learn,frameworks
+cloud, cloud services
+learn,frameworks
+javascript,Programming language
+cloud, cloud services
+cloud, cloud services
+python,Programming language
+matplotlib,frameworks
+learn,frameworks
+databricks,bigdata
+cloud, cloud services
+databricks,bigdata
+cloud, cloud services
+cloud, cloud services
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+learn,frameworks
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+learn,frameworks
+learn,frameworks
+learn,frameworks
+learn,frameworks
+learn,frameworks
+learn,frameworks
+learn,frameworks
+learn,frameworks
+nosql,bigdata
+learn,frameworks
+tensorflow,frameworks
+learn,frameworks
+learn,frameworks
+python,Programming language
+c,Programming language
+learn,frameworks
+learn,frameworks
+learn,frameworks
+r,Programming language
+learn,frameworks
+python,Programming language
+sql,bigdata
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+learn,frameworks
+learn,frameworks
+learn,frameworks
+learn,frameworks
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+learn,frameworks
+learn,frameworks
+javascript,Programming language
+c,Programming language
+learn,frameworks
+databricks,bigdata
+c,Programming language
+c,Programming language
+learn,frameworks
+learn,frameworks
+learn,frameworks
+javascript,Programming language
+cloud, cloud services
+javascript,Programming language
+learn,frameworks
+python,Programming language
+matlab,Programming language
+learn,frameworks
+scala,Programming language
+java,Programming language
+cloud, cloud services
+learn,frameworks
+python,Programming language
+sql,bigdata
+scala,Programming language
+python,Programming language
+sql,bigdata
+python,Programming language
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+learn,frameworks
+cloud, cloud services
+learn,frameworks
+sql,bigdata
+databricks,bigdata
+cloud, cloud services
+cloud, cloud services
+r,Programming language
+javascript,Programming language
+tensorflow,frameworks
+learn,frameworks
+python,Programming language
+javascript,Programming language
+c,Programming language
+learn,frameworks
+cloud, cloud services
+python,Programming language
+r,Programming language
+matplotlib,frameworks
+matlab,Programming language
+learn,frameworks
+python,Programming language
+learn,frameworks
+cloud, cloud services
+tensorflow,frameworks
+learn,frameworks
+learn,frameworks
+cloud, cloud services
+cloud, cloud services
+javascript,Programming language
+databricks,bigdata
+cloud, cloud services
+databricks,bigdata
+python,Programming language
+cloud, cloud services
+javascript,Programming language
+c,Programming language
+javascript,Programming language
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+cloud, cloud services
+cloud, cloud services
+python,Programming language
+java,Programming language
+learn,frameworks
+python,Programming language
+java,Programming language
+scala,Programming language
+sql,bigdata
+learn,frameworks
+learn,frameworks
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+c,Programming language
+learn,frameworks
+learn,frameworks
+cloud, cloud services
+python,Programming language
+java,Programming language
+scala,Programming language
+learn,frameworks
+learn,frameworks
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+python,Programming language
+learn,frameworks
+learn,frameworks
+java,Programming language
+c,Programming language
+python,Programming language
+r,Programming language
+python,Programming language
+sql,bigdata
+learn,frameworks
+python,Programming language
+learn,frameworks
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+learn,frameworks
+python,Programming language
+cloud, cloud services
+python,Programming language
+cloud, cloud services
+cloud, cloud services
+databricks,bigdata
+opencv,frameworks
+cloud, cloud services
+sql,bigdata
+javascript,Programming language
+python,Programming language
+r,Programming language
+learn,frameworks
+cloud, cloud services
+nosql,bigdata
+cloud, cloud services
+cloud, cloud services
+html,Programming language
+javascript,Programming language
+python,Programming language
+c,Programming language
+cloud, cloud services
+cloud, cloud services
+c,Programming language
+java,Programming language
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+learn,frameworks
+cloud, cloud services
+cloud, cloud services
+cloud, cloud services
+javascript,Programming language
+learn,frameworks
+python,Programming language
+cloud, cloud services
+cloud, cloud services
+cloud, cloud services
+cloud, cloud services
+learn,frameworks
+python,Programming language
+python,Programming language
+python,Programming language
+java,Programming language
+c,Programming language
+cloud, cloud services
+learn,frameworks
+cloud, cloud services
+cloud, cloud services
+learn,frameworks
+python,Programming language
+c,Programming language
+c,Programming language
+c,Programming language
+java,Programming language
+javascript,Programming language
+cloud, cloud services
+cloud, cloud services
+javascript,Programming language
+python,Programming language
+cloud, cloud services
+learn,frameworks
+learn,frameworks
+javascript,Programming language
+python,Programming language
+learn,frameworks
+python,Programming language
+cloud, cloud services
+python,Programming language
+java,Programming language
+c,Programming language
+cloud, cloud services
+cloud, cloud services
+cloud, cloud services
+cloud, cloud services
+cloud, cloud services
+java,Programming language
