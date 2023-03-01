@@ -22,7 +22,7 @@ After the data collection, the program reads the collected data and creates thre
 
 Some job postings from the USA included salary information, which was not present in job postings from other regions. This caused issues with the "Level" and "Type" columns, so the program repaired these cells. Additionally, the program fixed several location-related records.
 
-The programme created new databases into four categories - Data Scientist, Data Analyst, AI and ML - and again removes duplicates to include the same job advert appearing in multiple countries. The cleaned data is then saved.
+The program created new databases into four categories - Data Scientist, Data Analyst, AI and ML - and again removes duplicates to include the same job advert appearing in multiple countries. The cleaned data is then saved.
 # Preliminary Data Visualization
 In the Preliminary Data Visualization section, I provided an initial visualization of the collected data. I compared the number of job postings for Data Science to those for related jobs (AI, ML, Data Analyst). I also provided a visualization of the number of job postings in each category, broken down by country.
 
