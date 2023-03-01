@@ -10,7 +10,7 @@ Big data: SQL, Spark, Hadoop
 Cloud services: AWS, Azure, Google
 Frameworks: TensorFlow, Scikit-learn, Pandas
 BI: Tableau, Power BI.
-![Tableau result](https://github.com/Jkfre247/job-offert-analysis/blob/main/Data%20Science%20Analysis.png)
+![Tableau result](https://github.com/Jkfre247/job-offert-analysis/blob/main/Final%20result.png)
 
 # Data Collecting
 The data was collected from LinkedIn by searching for the phrase "Data Scientist" and selecting the role as a junior in the chosen country. The program undergoes several security measures, from logging in to accepting cookie files. Upon entering the job postings page, the program encounters a page divided into two sections. The left section contains the list of job postings, and the right section displays specific job offer. The program passes through security measures(The page loads only a portion of the job postings, so the program scrolls down a certain element to obtain all job postings.) to display all job postings.  The program then downloads the appropriate job posting blocks. When a specific block is clicked and a specific offert is displayed, the program then downloads information such as the company name, job position, location, job description, etc.
