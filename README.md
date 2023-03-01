@@ -5,11 +5,12 @@ The program includes preliminary data visualization, and Azure Translator was us
 # Result of my analysis
 The result of my analysis shows that of all the job adverts for 'Data Scientist' with a 'Junior' level requirement, 83% were actual Data Scientist roles in Data jobs (many of the offers are from different fields). The majority of these job adverts were in the US. Companies prefer to hire full-time and then hire on a contract basis. Warsaw has the most job ads for this role in Poland. The most sought-after technologies are:
 
-Programming languages: Python, R, Java
-Big data: SQL, Spark, Hadoop
-Cloud services: AWS, Azure, Google
-Frameworks: TensorFlow, Scikit-learn, Pandas
-BI: Tableau, Power BI.
+Programming languages: Python, R, Java<br />
+Big data: SQL, Spark, Hadoop<br />
+Cloud services: AWS, Azure, Google<br />
+Frameworks: TensorFlow, Scikit-learn, Pandas<br />
+BI: Tableau, Power BI.<br />
+<br />
 ![Tableau result](https://github.com/Jkfre247/job-offert-analysis/blob/main/Final%20result.png)
 
 # Data Collecting
